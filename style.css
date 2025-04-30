@@ -119,7 +119,8 @@ footer{
     text-align: center;
 }
 .attribution a { 
-    color:var(--light-blue-color);
+   color: var(--primary-color-font);
+   font-weight: 500;
 }
 
 /*Media queries*/
