@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-four-card-feature-section-master)
+[My Solution](https://dovlym.github.io/FEM-four-card-feature-section-master)
 
 
 ## My process
